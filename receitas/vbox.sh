@@ -13,7 +13,7 @@ mkdir -p "$DESKTOP_DIR"
 sudo mkdir -p "$UNINSTALL_DIR"
 
 # 2. Baixa o AppImage mais recente do eDEX-UI do GitHub oficial (com o link corrigido)
-APPIMAGE_URL="https://github.com/Johnzin-WakaWaka/OxyohanOS/releases/download/repoup1035/VLC_media_player-3.0.11.1-x86_64.AppImage"
+APPIMAGE_URL="https://github.com/Johnzin-WakaWaka/OxyohanOS/releases/download/repoup1035/VirtualBox-KVM_7.2.14-archimage5.0-x86_64.AppImage"
 DEST_FILE="$APP_DIR/vbox.AppImage"
 
 echo "-> Baixando o binário do vbox..."

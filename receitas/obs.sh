@@ -14,7 +14,7 @@ sudo mkdir -p "$UNINSTALL_DIR"
 
 # 2. Baixa o AppImage mais recente do eDEX-UI do GitHub oficial (com o link corrigido)
 APPIMAGE_URL="https://github.com/Johnzin-WakaWaka/OxyohanOS/releases/download/repoup1035/OBS-Studio_32.2.2-2-archimage5.0-full-x86_64.AppImage"
-ICON_URL="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AOBS_Studio_logo.png&ved=0CBYQjRxqFwoTCLjL3trKy5YDFQAAAAAdAAAAABAF&opi=89978449"
+ICON_URL="https://upload.wikimedia.org/wikipedia/commons/1/13/OBS_Studio_logo.png"
 DEST_FILE="$APP_DIR/OBS.AppImage"
 DEST_ICON="$APP_DIR/obsIcon.png"
 

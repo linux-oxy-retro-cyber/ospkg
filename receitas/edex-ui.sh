@@ -13,7 +13,7 @@ mkdir -p "$DESKTOP_DIR"
 sudo mkdir -p "$UNINSTALL_DIR"
 
 # 2. Baixa o AppImage mais recente do eDEX-UI do GitHub oficial (com o link corrigido)
-APPIMAGE_URL="https://github.com/GitSquared/edex-ui/releases/download/v2.2.8/eDEX-UI-Linux-x86_64.AppImage"
+APPIMAGE_URL="https://github.com/Johnzin-WakaWaka/OxyohanOS/releases/download/repoup1035/eDEX-UI-Linux-x86_64.AppImage"
 DEST_FILE="$APP_DIR/edex-ui.AppImage"
 
 echo "-> Baixando o binário do eDEX-UI..."
